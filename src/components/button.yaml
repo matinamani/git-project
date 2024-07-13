@@ -1,0 +1,9 @@
+# button component
+import:
+[]
+
+view_button:
+[button]
+
+export:
+[button]
