@@ -1,7 +1,7 @@
 # entry point of the project
 
 imports:
-[./src/pages/homepage]
+[./src/pages]
 
 view:
-[homepage]
+[homepage, signin, signup]
