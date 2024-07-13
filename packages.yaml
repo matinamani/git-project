@@ -4,4 +4,4 @@ dependencies:
 [react, tailwind, axios, reactQuery, tanstackTable, lodash]
 
 devDependencies:
-[lodash]
+[postcss, typescript, vite, cspell, husky, lintStaged, prettier]
