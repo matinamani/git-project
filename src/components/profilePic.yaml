@@ -1,10 +1,10 @@
 # Profile picture component
 
 imports:
-[]
+[./button, ./typography]
 
-view_dashboard:
+view_profilePic:
 [button, typography]
 
 exports:
-[dashboard]
+[profilePic]
