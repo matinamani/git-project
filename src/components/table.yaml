@@ -1,0 +1,10 @@
+# table component
+
+imports:
+[./button, ./typography, ./input, ./badge]
+
+view_table:
+[table]
+
+exports:
+[table]
