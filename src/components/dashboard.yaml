@@ -1,0 +1,9 @@
+# dashboard component
+
+imports:
+[]
+
+view_dashboard:
+[table]
+
+exports:

@@ -1,0 +1,10 @@
+# homepage
+
+imports:
+[../components/dashboard]
+
+view_homepage:
+[dashboard]
+
+exports:
+[homepage]

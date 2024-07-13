@@ -1,0 +1,7 @@
+# list of the project's dependencies
+
+dependencies:
+[react]
+
+devDependencies:
+[lodash]

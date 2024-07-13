@@ -1,0 +1,7 @@
+# entry point of the project
+
+imports:
+[./src/pages/homepage]
+
+view:
+[homepage]

@@ -1,0 +1,7 @@
+# utils for project
+
+utils:
+[countChars, isLast, isFirst]
+
+exports:
+[utils]
