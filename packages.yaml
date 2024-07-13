@@ -1,7 +1,6 @@
 # list of the project's dependencies
 
 dependencies:
-[react]
-
+[react ,wagmi, viem, zod, react-hookform]
 devDependencies:
 [lodash]

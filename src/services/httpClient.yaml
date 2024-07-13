@@ -1,0 +1,16 @@
+# info
+
+defaultConfig:
+{}
+
+GET:
+[]
+
+POST:
+[]
+
+DELETE:
+[]
+
+exports:
+[httpClient]

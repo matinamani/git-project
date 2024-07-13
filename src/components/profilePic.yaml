@@ -1,0 +1,10 @@
+# Profile picture component
+
+imports:
+[]
+
+view_dashboard:
+[table, button, typography]
+
+exports:
+[dashboard]
