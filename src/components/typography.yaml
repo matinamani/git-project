@@ -1,0 +1,9 @@
+# typography component
+import:
+[]
+
+view_typography:
+[typography]
+
+export:
+[typography]
