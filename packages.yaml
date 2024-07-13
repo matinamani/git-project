@@ -1,7 +1,7 @@
 # list of the project's dependencies
 
 dependencies:
-[react]
+[react, tailwind, axios, reactQuery, tanstackTable, lodash]
 
 devDependencies:
 [lodash]
