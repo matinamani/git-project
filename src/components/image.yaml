@@ -1,0 +1,10 @@
+# image component
+
+imports:
+[]
+
+view_image:
+[]
+
+exports:
+[image]
