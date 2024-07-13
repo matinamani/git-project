@@ -1,7 +1,7 @@
 # dashboard component
 
 imports:
-[./button, ]
+[./button, ./typography]
 
 view_dashboard:
 [table, button, typography]
