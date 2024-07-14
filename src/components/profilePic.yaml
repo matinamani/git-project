@@ -1,0 +1,10 @@
+# Profile picture component
+
+imports:
+[./button, ./typography , ./image]
+
+view_profilePic:
+[button, typography,image]
+
+exports:
+[profilePic]

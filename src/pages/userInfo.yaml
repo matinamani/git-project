@@ -1,0 +1,10 @@
+# UserInfo
+
+imports:
+[../components/dashboard , ../components/clock ,../components/profilePic ,../components/typography]
+
+view_userinfo:
+[dashboard , profilePic , typography, clock ]
+
+exports:
+[userinfo]

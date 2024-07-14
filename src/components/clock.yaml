@@ -1,0 +1,9 @@
+# Clock component
+import:
+[System.Time]
+
+view_clock:
+[clock]
+
+export:
+[clock]
