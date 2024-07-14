@@ -1,0 +1,10 @@
+# sign-up page
+
+imports:
+[]
+
+view_signup:
+[signup]
+
+exports:
+[signup]
